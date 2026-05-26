@@ -1,44 +1,85 @@
-<!DOCTYPE html>
-<html lang="en">
-
-  <head>
-    <meta charset="UTF-8">
-    <title>Workspace 2</title>
-    <link rel="stylesheet" href="./style.css">
-
-  </head>
-    
-  <body>
-  <div class="wrapper">
-<header><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQgAAACUCAMAAABY+0dBAAAAclBMVEWiITX///+nMUKlKDuhGzGpP0j27e7XrrPly86qQE769PWYAAD9+vucAB7Gi5KoQEaZAAnz5+i6anSeCCe1Y2zLlZrEgYmdAiLPnaKgFSyqN0fhwsaiKi3Tp6u6bnfEhovt2tywUVyaABGPAAC0XWWyXV/04Do9AAADNElEQVR4nO3dbVPaQBSG4QRWVEioGCBE5KVo//9frCVPnEqTZp3Zs2q8769sYXM1RhicnOR2FLPxPs28SjfjqBt7SEZJzIpl6tmqirqxcWSIyh/CRd0YEAoIBYQCQgGhgFBAqNgQbplO67L248+ahwcOkdwe1nU37RDHef3w4efAIVx5Li927RA3D3m9Iu477PgQry983QFxG/dMeN3PR0EkQCggFBBquBBl7lPRLO+DKLyergy1+3AQ5Xru076WcH0Qxd7r6dahJMJBzBZTn7Z3Wt8Dcbf1errFLND2A0JM2o/s8kCbnfdAzDreeV40/YQQC6+db30htl8Wwu+MAAIIIIAAIj7E5MtCfIP3EceJ6vi/q9uetL4H4rT1ebbJJzwjktOs7rF950/1o3mzvO9DV16vf2qXeNSL3XXt5r2F/xjurtohLrfs+TG84yfuKvSHdSAUEAoIBYQCQgGhgFBAKCAUEAoIBYQCQgGhgFBAKCAUEAoIBYQCQgGhgFAfBdH7x2RNQ4fgjHgNCAWEAkIBoYBQQCggFBAKCAWEAkIBoYBQQCggFBAKCAWEAkIBoYBQQCggFBAKCAWEAkIBoYBQQCggFBB64W8LMSv+rvzPbRzfLBwcxPT5/k37jvtDHNdv1z1PBwaRLi5qP8A0u1zXvuwLQ4QNCCCAAAIIIIAAYsAQSXWwdzgEv6G8AYQr59YO8zz0CWFyX2xXrjpmRoQpWxXBHWxuEO7KjaFEtjFwMLpTuqs2dhCbysDB6pbxrjC7Tswtzge7e+e73Oic2IS/Tp4zGyLgChMJk+vDn+ymKbxcMcM7rIzOB9OxEq7aBf7dkdlcJ89ZzteoXFiJbOfsJhSZDhp5kQgJYelgPHGlSgJK7BLLiVXGo2eqquMLrfd3XZlO7rKeweOSHx11feX3q2O9M7tOnjMfRuTaq7q/BK46/ontPpnKpIBQQCggFBAKCAWEAkIBoYBQQKiPgvC+M1msmBLd7Cf63PBmEmwXxOhUL4jsEX+S/Nx3knzcfcWGqO7bj//fNnFPiegQS1+IFRBAAAEEEEAAUQeEAkIBoYBQnxjiYRwzt0wzr9JVEnVjo9+UgXZlM1LWygAAAABJRU5ErkJggg==">
-Indiana University In the News</header>
-<nav>Home -- About -- Contact</nav>
-<div class="contents">
-<div class="articles">
-<article>
-<h1>Silicon Chip Implant Marvel</h1>
-<p>Members of the Indiana School of Medicine led by Chandan Shen have developed a nanochip device that can change skin cells into nerve and blood cells, which could revolutionize the future of modern medicine. "This small silicon chip enables nanotechnology that can change the function of living body parts," says team leader Chandan Shen. "For example, if someone's blood vessels were damaged because of a traffic accident and they need blood supply, we can't rely on the pre-existing blood vessel anymore because that is crushed, but we can convert the skin tissue into blood vessels and rescue the limb at risk."</p>
-<p>The nano chip is made of silicon. It is equipped with millions of nanometers  that suck up cells to the main body of the chip, whiere it reprograms them to fit specific genes like brain cells and blood cells.</p>
-</article>
-<article>
-<h1>Legal Implications, IU School Of Medicine </h1>
-<p>However, due to the fact that the chip might increase the rates of cancerous cells, it must be thoroughly tested and improved by the team. After it is proven to be safe enough for  actual patients, it will have to be sent to the FDA for approval. Once it receives approval, it might be able to replace brain cells damaged by a stroke or repair nerve damage as a result of diabetes. It will also help add blood cells to the blood stream if bone marrow production isn't working properly.</p>
-</article>
-</div>
-<aside-1>
-<h2>Other Areas of Research</h2>
-<p>ELKHART Ind.-- Jianhua Gong has assited in solving the mystery that some underwater faults cause bigger earthquakes than other faults. Gong, a seismotlogist from IU, believes she has solved this 30-year-old question working with Woods Hole Oceanographic Institution, Scripps Institution of Oceanography at UC San Diego, the U.S. Geological Survey, Boston College, the University of Delaware, Western Washington University, the University of New Hampshire, and McGill University.</p>
-  <p>Read the rest of the story here: <a href="https://news.iu.edu/college/live/news/51003-iu-researcher-helps-solve-mystery-of_gl=1*txxqs*_gcl_au*MzI5MjQ0OTQwLjE3Nzk3NTM3Mjk.*_ga*Mzg3MDg5ODg1LjE3Nzk3NTM3Mjk.*_ga_61CH0D2DQW*czE3Nzk3NTczODAkbzIkZzAkdDE3Nzk3NTczODAkajYwJGwwJGgw"> IU researcher helps solve mystery of clockwork-like earthquake system deep beneath the Pacific</a></p>
-</aside-1>
-  <aside-2>
-<h3>Other News Links</h3>
-    <p><a href="https://news.iu.edu/live/news/51007-edward-curtis-preservation-of-arab-american">Edward Curtis’ preservation of Arab American history earns him Guggenheim, ACLS fellowships</a></p>
-    <p><a href="https://blog.oneill.indianapolis.iu.edu/2026/04/13/ghana-zipline-drones/?_gl=1*18lfhdp*_gcl_au*MzI5MjQ0OTQwLjE3Nzk3NTM3Mjk.*_ga*Mzg3MDg5ODg1LjE3Nzk3NTM3Mjk.*_ga_61CH0D2DQW*czE3Nzk3NTczODAkbzIkZzEkdDE3Nzk3NTkxMjMkajQ2JGwwJGgw">What Ghana’s drone delivery system may reveal about the future of public health supply chains</a></p>
-</aside-2>
-</div>
-</div>
-<footer>2021, Copyright -- Stetson Gilbert -- IU CIT Web Design</footer>
-    
-  </body>
-  
-</html>
+body{
+height: 100vh;
+border: 3px solid grey;
+}
+header { /* header is a tag, no . */
+width: 100%;
+height: 100px;
+background-color: #990000;
+color: #edebeb;
+font-family:'Lucida Sans',
+'Lucida Sans Regular', sans-serif;
+font-size: xx-large;
+text-align: center;
+padding-top: 15px;
+}
+header img { /* any img tag, within
+the header */
+position: absolute;
+top: 15px;
+left: 15px;
+width: 50px;
+height: auto;
+}
+nav {
+background-color: #edebeb;
+color: #990000;
+width: 100%;
+}
+.wrapper{
+padding:3px;
+}
+.contents {
+position: absolute;
+top: 150px;
+border-top:10px dashed
+#990000;
+width: 100%;
+}
+.articles { /* This is a class, so the
+. is needed */
+width: 60%;
+background-color: #edebeb;
+border: 2px solid #990000;
+margin-top: 15px;
+}
+article {
+width:90%;
+height: 45%;
+margin-top: 5px;
+margin-bottom: 5px;
+margin-left: auto;
+margin-right: auto;
+padding: 5px;
+border: 5px solid grey;
+border-radius: 15px;
+}
+aside-1 {
+position: absolute;
+top: 5px;
+left: 65%;
+width: 30%;
+background-color: #edebeb;
+border: 2px solid #990000;
+margin-top: 15px;
+padding: 5px;
+}
+aside-2 {
+position: absolute;
+top: 300px;
+left: 65%;
+width: 30%;
+background-color: #edebeb;
+border: 2px solid #990000;
+margin-top: 15px;
+padding: 5px;
+padding-bottom: 0px;
+}
+footer {/*footer is a tag, no.*/
+position: absolute;
+bottom: -20px;
+width: 98.6%;
+text-align: center;
+background-color: #edebeb;
+color: #990000;
+}
